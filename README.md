@@ -1,6 +1,6 @@
-# SPakLib
+# SPackLib
 
-**SPakLib** — lightweight and efficient shader packaging library for FNA-based projects.  
+**SPackLib** — lightweight and efficient shader packaging library for FNA-based projects.  
 Supports multiple compression formats including default GZip, alternative 7-bit encoding, and advanced UCSP (Ultra Compressed Shader Pack) with LUT + DEFLATE compression.
 
 ---
@@ -18,7 +18,7 @@ Supports multiple compression formats including default GZip, alternative 7-bit 
 ## Installation
 
 Clone the repository or download the latest release from GitHub.  
-Add the `SPakLib` project or DLL reference to your solution.
+Add the `SPackLib` project or DLL reference to your solution.
 
 ---
 

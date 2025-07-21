@@ -1,4 +1,4 @@
-name: Build SPakLib .NET Framework 4.8
+name: Build SPaсkLib .NET Framework 4.8
 
 on:
   push:
@@ -17,5 +17,5 @@ jobs:
       - name: Setup MSBuild
         uses: microsoft/setup-msbuild@v1.1
 
-      - name: Build SPakLib project
-        run: msbuild SPakLib.csproj /p:Configuration=Release /p:Platform="Any CPU"
+      - name: Build SPaсkLib project
+        run: msbuild SPaсkLib.csproj /p:Configuration=Release /p:Platform="Any CPU"
