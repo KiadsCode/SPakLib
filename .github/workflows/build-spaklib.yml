@@ -17,5 +17,5 @@ jobs:
       - name: Setup MSBuild
         uses: microsoft/setup-msbuild@v1.1
 
-      - name: Build solution
-        run: msbuild SPakLib.sln /p:Configuration=Release /p:Platform="Any CPU"
+      - name: Build SPakLib project
+        run: msbuild SPakLib.csproj /p:Configuration=Release /p:Platform="Any CPU"
