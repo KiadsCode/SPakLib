@@ -1,11 +1,10 @@
-﻿using SPakLib;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.IO.Compression;
 using System.Text;
 
-namespace SPackLib.Formats
+namespace SPakLib.Formats
 {
     /// <summary>
     /// Represents a shader package format that uses 7-bit encoding, LUT table and GZip compression.

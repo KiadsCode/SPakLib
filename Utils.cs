@@ -2,7 +2,7 @@
 using System.IO;
 using System.IO.Compression;
 
-namespace SPackLib
+namespace SPakLib
 {
     /// <summary>
     /// Provides internal utility methods for compression and encoding used by SPackLib.

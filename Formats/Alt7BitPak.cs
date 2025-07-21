@@ -1,8 +1,7 @@
-﻿using SPakLib;
-using System.IO;
+﻿using System.IO;
 using System.Text;
 
-namespace SPackLib.Formats
+namespace SPakLib.Formats
 {
     /// <summary>
     /// Represents a shader package format using 7-bit encoded integers and GZip compression.

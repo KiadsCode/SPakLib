@@ -1,5 +1,4 @@
-﻿using SPackLib;
-using System.IO;
+﻿using System.IO;
 using System.Text;
 
 namespace SPakLib.Formats

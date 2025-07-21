@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные со сборкой.
-[assembly: AssemblyTitle("SPackLib")]
+[assembly: AssemblyTitle("SPakLib")]
 [assembly: AssemblyDescription("Compact shader packaging and compression library for C# projects.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("iwnddm")]
-[assembly: AssemblyProduct("SPackLib")]
+[assembly: AssemblyProduct("SPakLib")]
 [assembly: AssemblyCopyright("© 2025 iwnddm")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
