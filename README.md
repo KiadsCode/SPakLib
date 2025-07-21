@@ -26,7 +26,7 @@ Add the `SPakLib` project or DLL reference to your solution.
 
 MIT License
 
-Copyright (c) 2025 iwnd
+Copyright (c) 2025 iwnddm
 
 Permission is hereby granted, free of charge, to any person obtaining a copy  
 of this software and associated documentation files (the "Software"), to deal  
@@ -53,7 +53,7 @@ SOFTWARE.
 You are free to use, modify, and distribute this software in your own projects,  
 provided that you keep the copyright notice intact and acknowledge the original author.
 
-Original author: iwnd
+Original author: iwnddm
 
 ---
 
