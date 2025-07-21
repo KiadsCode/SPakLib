@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные со сборкой.
 [assembly: AssemblyTitle("SPackLib")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Compact shader packaging and compression library for C# projects.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("iwnddm")]
 [assembly: AssemblyProduct("SPackLib")]
-[assembly: AssemblyCopyright("Copyright ©  2025")]
+[assembly: AssemblyCopyright("© 2025 iwnddm")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
